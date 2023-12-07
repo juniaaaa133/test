@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74f2ee75.css",
+    "main.js": "/static/js/main.8490723b.js",
+    "static/media/pantheon.jpg": "/static/media/pantheon.132d8504ab6863483b37.jpg",
+    "static/media/mickey.jpg": "/static/media/mickey.e6a6b217096c90b4472b.jpg",
+    "static/media/witch.jpg": "/static/media/witch.bae2c61751c4565e0ad6.jpg",
+    "index.html": "/index.html",
+    "main.74f2ee75.css.map": "/static/css/main.74f2ee75.css.map",
+    "main.8490723b.js.map": "/static/js/main.8490723b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f2ee75.css",
+    "static/js/main.8490723b.js"
+  ]
+}
